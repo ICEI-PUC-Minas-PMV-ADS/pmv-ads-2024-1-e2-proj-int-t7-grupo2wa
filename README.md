@@ -1,33 +1,28 @@
-# TÍTULO DO PROJETO
+## WebArcade
 
-`CURSO`
+`Análise e Desenvolvimento de Sistemas - PUC Minas`
 
-`DISCIPLINA`
+`Projeto Desenvolvimento de Aplicação Web Back-End`
 
-`SEMESTRE`
+`2º semestre/2024`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+![W (3)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-g2/assets/144962568/9371f94a-14ed-489b-8d3f-2060e7d71ec8)
+
+Sem tempo para jogos que exigem horas de dedicação e habilidades complexas? Aqui no WA, você encontra jogos divertidos e desafiadores que podem ser jogados em qualquer lugar, a qualquer hora.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Alvaro Tadeu Silva de Carvalho
+* Eros Rodrigues Valois Alvaia
+* Gustavo da Silva Souza
+* João Paulo de Oliveira
+* Nathan Luiz Aquino Moreira
+* Vinicius de Souza Ribeiro
+
 
 ## Orientador
 
-* Nome completo do professor 1
-
-## Instruções de utilização
-
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
-
-Não deixe de informar o link onde a aplicação estiver disponível para acesso (por exemplo: https://adota-pet.herokuapp.com/src/index.html).
-
-Se houver usuário de teste, o login e a senha também deverão ser informados aqui (por exemplo: usuário - admin / senha - admin).
-
-O link e o usuário/senha descritos acima são apenas exemplos de como tais informações deverão ser apresentadas.
+* Bernardo Jeunon de Alencar
 
 # Documentação
 
