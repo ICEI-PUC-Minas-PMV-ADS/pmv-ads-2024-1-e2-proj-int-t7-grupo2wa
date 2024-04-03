@@ -1,50 +1,83 @@
-# Introdução
 
-Bem-vindo ao Web Arcade, o seu portal para jogos acessíveis e rápidos! 
+# Projeto de Interface
 
- 
+## Diagrama de Fluxo
 
-Sem tempo para jogos que exigem horas de dedicação e habilidades complexas? Aqui no WA, você encontra jogos divertidos e desafiadores que podem ser jogados em qualquer lugar, a qualquer hora. 
+O diagrama apresenta o estudo do fluxo de interação do usuário com o sistema interativo e  muitas vezes sem a necessidade do desenho do design das telas da interface. Isso permite que o design das interações seja bem planejado e gere impacto na qualidade no design do wireframe interativo que será desenvolvido logo em seguida.
 
-Nossa missão é tornar os jogos acessíveis a todos, independentemente da idade, habilidade ou experiência. 
+![fluxo](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-g2/assets/144962568/66a5e39b-98db-48b1-af1d-4d56392fc8fe)
 
-Essa atividade beneficia a todos, permitindo que assumam várias funções, como gerenciamento, raciocínio logico e reflexos e o mais importante, a diversão! 
 
-## Problema
-A Falta de Tempo para Jogos Demorados: Um Dilema da Era Moderna 
+## Wireframes
+<h3><b>Tela - Login</b></h3>
+<p>Tela de login apresenta os campos de "nome de usuario" e "senha" para caso o usuario ja tenha cadastro no site preencha apenas essas credenciais, caso ele nao tenha é possivel criar um registro clincando em "Não conseguir iniciar sessão? Criar conta".Acesse o <a href="https://www.figma.com/proto/TqRObe05WxsIhUHcQVvYzB/Untitled?type=design&node-id=1-6&t=yTJJZuZNVB13CRqJ-0&scaling=min-zoom&page-id=0%3A1">ambiente Figma do projeto</a>.
+ </p>
+  
+![1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-g2/assets/144962568/1a634c67-48d7-4d7b-86dc-b0d40072707d)
 
- 
 
-Na era da informação, onde o tempo se tornou um recurso cada vez mais precioso, a falta de tempo para jogos demorados se tornou um problema cada vez mais comum. Com a rotina agitada do dia a dia, dividida entre trabalho, estudos, responsabilidades familiares e sociais, encontrar horas para dedicar a jogos longos e complexos pode ser um desafio. 
+<figure> 
+  <figcaption>Figura 1 - Tela Login
+</figure> 
+<hr>
+<h3><b>Tela -  Registre-se</b></h3>
+<p>Tela Registre-se, será pedido 4 campos obrigatórios para ser efetuado o cadastro, feito isso basta clicar na caixa com uma seta ->.</p>
 
-As Consequências da Falta de Tempo: 
+ ![2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-g2/assets/144962568/7136e770-18fa-4725-bee8-a36b82ec8b59)
 
-<li>Frustração e Desânimo: Jogar por pouco tempo pode dificultar o progresso e a imersão em jogos longos, levando à frustração e ao desânimo.</li> 
+  
+<figure> 
+  <figcaption> Figura 2 - Tela Registre-se
+</figure> 
+<hr>
 
-<li>Abandono de Jogos: A falta de tempo para dedicar aos jogos pode levar ao abandono de títulos que ainda não foram finalizados, acumulando uma lista de jogos "inacabados".</li> 
+<h3><b>Tela - Pós login</b></h3>
+<p>Apresentará as opcões disponiveis de aplicaçoes junto a um carrocel com imagens do mesmo e um campo de pesquisa rapida.</p>
 
-<li>Dificuldade em Acompanhar Lançamentos: A constante demanda por jogos novos e longos pode tornar difícil acompanhar pela acessibilidade dos lançamentos e dificultar o usuario a ter novas experiências.</li>
+![3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-g2/assets/144962568/078441dc-a7cd-499a-888b-2b04740321ac)
 
-## Objetivos
 
-Nossa solução visa criar uma plataforma de jogos arcade clássicos para jogar online, a qualquer hora e em qualquer lugar. Reviva a nostalgia dos jogos que marcaram época ou explore novos títulos que vão te desafiar e divertir. Estamos comprometidos em eliminar as barreiras que impedem os jogadores de vivenciar a plenitude das experiências.
+  
+<figure>  
+    <figcaption>Figura 3 - Tela Pós login  
+</figure> 
+<hr>
 
-## Justificativa
+<h3><b>Tela – Perfil</b></h3>
+<p>Será possivel alterar imagem de perfil, nome, senha e email.</p>
+  
+![4](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-g2/assets/144962568/f3b53300-5188-4d18-b56f-f301f8303541)
 
-A falta de tempo para jogos demorados não é apenas uma questão de entretenimento, mas também afeta a qualidade de vida das pessoas. Jogos longos e complexos oferecem uma experiência imersiva e enriquecedora, proporcionando momentos de descontração e lazer que são essenciais para o bem-estar mental e emocional. No entanto, a dificuldade em encontrar tempo para se dedicar a esses jogos pode levar à frustração e ao sentimento de privação de uma forma de escapismo saudável.Além da falta de tempo, outro desafio enfrentado pelos entusiastas de jogos é a falta de acessibilidade a novos títulos. Com a indústria de jogos crescendo exponencialmente a cada ano, a quantidade de novos lançamentos é vasta e pode ser esmagadora para os jogadores que têm tempo limitado e falta de acesso a maquinas capazes de suportar tais jogos.Pensando nisso, a criação de um site dedicado à resolução do problema da falta de tempo e acessibilidade para jogos demorados não apenas atende a uma necessidade crescente na sociedade contemporânea, mas também abre espaço para a promoção de experiências de entretenimento enriquecedoras e significativas, contribuindo para o bem-estar e a satisfação dos indivíduos em meio às demandas cada vez mais exigentes do dia a dia.
 
-Pesquisa de campo feita pelo google forms, com 21 pessoas para basear nossos dados:
-![tabela](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-g2/assets/144962568/4677f58d-712b-40e6-acb1-4282c156ac93)
 
-## Público-Alvo
+<figure> 
+    <figcaption>Figura 4 - Tela Perfil
+</figure>
+<hr>
 
-Um site com jogos arcade oferece uma experiência de jogo divertida e desafiadora para pessoas de todas as idades e origens. O público-alvo é amplo e diversificado, e pode ser dividido em alguns grupos principais:
-<ul>
-<li>Amantes de jogos clássicos, para aqueles que cresceram jogando jogos arcade nos anos 80 e 90.</li>
-<li>Jogadores casuais, para jogadores que buscam diversão rápida e instantânea.</li>
-<li>Jogadores hardcore, jogadores hardcore que buscam desafios e competições podem encontrar jogos que os levarão ao limite.</li>
-</ul>
+<h3><b>Tela – Sobre</b></h3>
+<p>Tela explicando a motivaçao da aplicaçao em um pequeno texto.</p>
+  
+![5](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-g2/assets/144962568/92b2193f-d720-4948-a567-54fa40dc0ea3)
 
-Pesquisa de campo feita pelo google forms, com 21 pessoas para basear nossos dados:
-![Resultado Da Pesquisa (3)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-g2/assets/144962568/c175e786-510d-4106-8bd2-22a08cb6493e)
+
+
+<figure> 
+    <figcaption>Figura 5 - Tela Sobre
+</figure>
+<hr>
+
+<h3><b>Tela – Jogos</b></h3>
+<p>Cada jogo possuirá uma tela especifica onde sao encontrados: Tutorial basico, Ranking Score do jogo em especifico e uma imagem ilustrativa do mesmo.</p>
+  
+
+![6](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-g2/assets/144962568/6f9aa9ba-f0af-4a1b-b608-440ef9b21075)
+
+
+
+<figure> 
+    <figcaption>Figura 6 - Tela Jogos
+</figure>
+<hr>
+
 
