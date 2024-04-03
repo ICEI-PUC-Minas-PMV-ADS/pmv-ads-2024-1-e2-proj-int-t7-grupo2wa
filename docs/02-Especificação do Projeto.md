@@ -1,77 +1,69 @@
 # Especificações do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+<img src="img/persona1.png" width="280px" height="200px">
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+Matheus Ferreira de 25 anos estudante de ADS  sempre foi apaixonado por videogames, mas à medida que os jogos se tornavam mais complexos e exigentes em termos de hardware,Matheus se via incapaz de acompanhar as últimas tendências,desanimado, ele um dia tropeçou em um site de jogos retro. Intrigado, acessou o site e foi recebido por uma gama de jogod antigos, desde o clássicos sonic e Mario.Os controles simples e os gráficos pixelados o cativaram instantaneamente. Matheus encontrou uma plataforma que não apenas resgatou suas memórias de juventude, mas também o ajudou a superar a frustração de não conseguir jogar os títulos modernos. Ele mergulhou em aventuras retrô, redescobrindo o prazer puro de jogar, livre das complexidades dos jogos atuais.
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+
+
+
+<img src="img/persona2.png" width="280px" height="200px">
+
+Maria Pires de 20 anos estudante de direito sempre foi uma entusiasta dos videogames, mas à medida que o tempo passava, a vida adulta trouxe responsabilidades e pouco tempo para acompanhar as novidades tecnológicas. Sentindo-se excluída do mundo dos jogos, Maria quase desistiu de sua paixão.Um dia, seu amigo Nathan recomendou a ela uma plataforma online dedicada a jogos retro. Cética, Maria deu uma chance e ficou surpresa ao encontrar uma vasta coleção de clássicos. Desde Super Mario Bros. até Snake, ela podia reviver os jogos que moldaram sua infância.A simplicidade dos controles e a familiaridade dos personagens a fizeram esquecer as frustrações dos jogos modernos. A plataforma retro tornou-se seu refúgio nostálgico, onde ela podia escapar da vida agitada e se perder nas aventuras que a fizeram apaixonar-se por videogames em primeiro lugar.
+
+<img src="img/persona3.png" width="280px" height="200px">
+
+Lucas Silva de 17 anos que esta cursando  o ensino medio, um jovem que sempre quis se perder nos mundos dos jogos, viu seus sonhos frustrados devido à sua deficiência física, que limitava seu acesso aos modernos controles complexos. Determinado a superar esse obstáculo, ele encontrou um site de jogos antigos aonde os controles eram bem simples e que não o impediam de passar horas jogando.Esse site traduzia os jogos que antes tinham comandos complexos em comandos mais simples e acessíveis. Lucas finalmente pôde jogar os jogos sem barreiras. A magia do site não apenas lhe permitiu explorar novos mundos virtuais, mas também inspirou outros jogadores com limitações físicas a seguir sua paixão
+
+<img src="img/persona4.png" width="280px" height="200px">
+
+Marcio de 32 anos, um trabalhador de escritório pai de 2 filhos, sentia-se desconectado do mundo dos videogames modernos devido à falta de tempo e recursos. Um dia, ao limpar seu sótão, deparou-se com seu antigo console Sega Genesis e uma coleção empoeirada de cartuchos porem o console ja estva muito ultrapassado e não funcionava mais.Vendo a frustração de seu pai os filhos de Marcio o apresentaram um site de jogos retro de facil acesso e baixa complexibilidade,movido pela nostalgia, Marcio se interresou pelo site  dedicou seu tempo livre para redescobrir a alegria dos jogos retrô. À noite, após um longo dia de trabalho, ele mergulhava nas aventuras pixeladas de Sonic, Pacman e outros clássicos. Esses momentos proporcionaram a Marcio uma pausa bem-vinda da vida agitada e uma conexão com suas paixões passadas e uma nova forma de se divertir com seus filhos.
 
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
-
+|EU COMO... `QUEM`   | QUERO/PRECISO ... `O QUE` |PARA ... `PORQUE`                 |
+|--------------------|---------------------------|----------------------------------|
+| Jogador amante de jogos classicos     | Diversas opções de jogos classicos                        | Relembrar momentos marcantes da infância, reviver a sensação e desafio proporcionada pelos jogos clássicos é algo que conecta e emociona                           |
+| Jogadores casuais     | Registro rapidamente e de facil acesso                        | Para jogadores que buscam uma experiencias fáceis de aprender e jogar, tornando-os ideais para quem quer se divertir sem ter que passar horas aprendendo regras complexas.                               |
+| Jogadores hardcore         | Ranking de pontuação                    | Aprimoram suas habilidades, estudando estratégias e dominando os meandros dos jogos.                               |
 ## Requisitos
 
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
+As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto. Para determinar a prioridade de requisitos, aplicar uma técnica de priorização de requisitos e detalhar como a técnica foi aplicada.
 
 ### Requisitos Funcionais
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| A aplicação deve permitir que o usuário gerencie suas tarefas | ALTA | 
-|RF-002| A aplicação deve emitir um relatório de tarefas realizadas no mês   | MÉDIA |
+|RF-001| Permitir que o usuario se registre no site e efetue o login e logoff. | ALTA | 
+|RF-002| Acesso funcional aos Jogos  | ALTA |
+|RF-003| A aplicação deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar os jogos.   | MÉDIA |
+|RF-004| Sistema de ranking (pontuaçao) para algumas aplicaçoes na soluçao.  | MÉDIA |
+|RF-005| Usuário poderar alterar o nome do perfil. | MÉDIA |
+|RF-006| Usuário poderar alterar a foto de perfil. | MÉDIA |
+|RF-007| Usuário poderar alterar alterar o email. | MÉDIA |
+|RF-008| Usuário poderar alterar a senha. | MÉDIA |
+|RF-009| Usuário tera acesso ao tutorial de cada jogo na aplicação | BAIXA |
+|RF-010| O seistema devera salvar a pontuaçao do usuario e exibir a maior no ranking dos 10 melhores | ALTA|
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| A aplicação deve ser responsiva | MÉDIA | 
-|RNF-002| A aplicação deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| A aplicação deve ser compatível com os navegadores. O site deve ser compatível com os principais navegadores do mercado. | ALTA | 
+|RNF-002| O site deve carregar em menos de 3 segundos para 90% dos usuários.| ALTA | 
+|RNF-003| O jogo deve rodar a pelo menos 30 quadros por segundo em todas as plataformas suportadas.| ALTA |
+| RNF-004 |  Usabilidade e Interface Amigável: Garantir que a interface seja intuitiva e fácil de usar, atendendo a jogadores de diferentes níveis de habilidade técnica.                     | ALTA    | 
+| RNF-005|  Disponibilidade e Escalabilidade: Assegurar que a plataforma esteja disponível 24 horas e seja escalável para lidar com um grande número de jogadores registrados.                      | ALTA    |
+| RNF-006 |  Segurança de Dados: Armazenar os dados dos jogadores com segurança, protegendo informações pessoais e preferências de jogo contra violações.                      | ALTA    | 
 
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
+
 
 ## Restrições
 
@@ -79,25 +71,10 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+|01| A equipe não pode terceirizar o desenvolvimento da solução. |
+|02| Acesso por país: O site pode ser restrito a determinados países ou regiões. |
 
-
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
 
 ## Diagrama de Casos de Uso
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-g2/assets/145401221/eedf4ad7-4a0f-49f6-8d4f-363221848d5c)
 
-O diagrama de casos de uso é o próximo passo após a elicitação de requisitos, que utiliza um modelo gráfico e uma tabela com as descrições sucintas dos casos de uso e dos atores. Ele contempla a fronteira do sistema e o detalhamento dos requisitos funcionais com a indicação dos atores, casos de uso e seus relacionamentos. 
-
-As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de Casos de Uso”.
-
-> **Links Úteis**:
-> - [Criando Casos de Uso](https://www.ibm.com/docs/pt-br/elm/6.0?topic=requirements-creating-use-cases)
-> - [Como Criar Diagrama de Caso de Uso: Tutorial Passo a Passo](https://gitmind.com/pt/fazer-diagrama-de-caso-uso.html/)
-> - [Lucidchart](https://www.lucidchart.com/)
-> - [Astah](https://astah.net/)
-> - [Diagrams](https://app.diagrams.net/)
