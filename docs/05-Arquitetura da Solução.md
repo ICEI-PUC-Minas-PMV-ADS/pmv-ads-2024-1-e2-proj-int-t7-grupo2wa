@@ -39,4 +39,4 @@ Para mais informações, consulte o microfundamento "Modelagem de Dados".
 
 ## Hospedagem
 
-Utilizamos a plataforma GitHub Pages como ambiente de hospedagem do site do projeto. A publicação é feita através de comandos via git para o repositório que se encontra no endereço:
+Utilizamos a plataforma GitHub Pages como ambiente de hospedagem do site do projeto. A publicação é feita através de comandos via git para o repositório que se encontra no endereço: <a href="https://pages.github.com/">WebArcade</a>
