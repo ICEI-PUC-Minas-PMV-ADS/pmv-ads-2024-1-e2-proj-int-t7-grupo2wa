@@ -16,8 +16,10 @@ Sem tempo para jogos que exigem horas de dedicação e habilidades complexas? Aq
 * Eros Rodrigues Valois Alvaia
 * Gustavo da Silva Souza
 * João Paulo de Oliveira
+* Maria Julia Souza Santos
 * Nathan Luiz Aquino Moreira
 * Vinicius de Souza Ribeiro
+
 
 
 ## Orientador
