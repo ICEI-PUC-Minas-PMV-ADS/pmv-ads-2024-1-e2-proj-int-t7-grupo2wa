@@ -30,7 +30,7 @@ O projeto da base de dados corresponde à representação das entidades e relaci
 Para mais informações, consulte o microfundamento "Modelagem de Dados".
 ## Tecnologias Utilizadas
 
-- Linguagens utlizadas para desenvolver o projeto: HTML, CSS, JavaScript
+- Linguagens utlizadas para desenvolver o projeto: HTML, CSS, JavaScript, MySQL e C#.
 - IDEs de desenvolvimento: Visual Studio Code
 - Plataforma para hospedagem do site: 
 - Plataforma para hospedagem dos arquivos: GitHub
