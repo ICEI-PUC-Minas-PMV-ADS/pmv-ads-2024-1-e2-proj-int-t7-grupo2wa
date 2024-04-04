@@ -30,9 +30,12 @@ O projeto da base de dados corresponde à representação das entidades e relaci
 Para mais informações, consulte o microfundamento "Modelagem de Dados".
 ## Tecnologias Utilizadas
 
-Descreva aqui qual(is) tecnologias você vai usar para resolver o seu problema, ou seja, implementar a sua solução. Liste todas as tecnologias envolvidas, linguagens a serem utilizadas, serviços web, frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
-
-Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.
+- Linguagens utlizadas para desenvolver o projeto: HTML, CSS, JavaScript
+- IDEs de desenvolvimento: Visual Studio Code
+- Plataforma para hospedagem do site: 
+- Plataforma para hospedagem dos arquivos: GitHub
+- Ferramenta para a criação de logo e imagens: Canva
+- Ferramenta para crição de template: Figma
 
 ## Hospedagem
 
