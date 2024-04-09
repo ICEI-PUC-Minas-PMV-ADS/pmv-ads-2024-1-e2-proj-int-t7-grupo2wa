@@ -1,5 +1,6 @@
 # Arquitetura da Solução
 
+
 Definição de como o software é estruturado em termos dos componentes que fazem parte da solução e do ambiente de hospedagem da aplicação.
 ![02-mob-arch (1)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-int-t7-grupo2wa/assets/144962568/75618b72-a4b2-4021-980c-f80441045bfa)
 
