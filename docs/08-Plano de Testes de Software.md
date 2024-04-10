@@ -36,7 +36,7 @@
 | **Caso de Teste**	| **CT-06 – Alterar a foto de perfil**	|
 |Requisito Associado | RF-00Y	- Usuário poderar alterar a foto de perfil. |
 | Objetivo do Teste 	| Verificar se o usuário consegue alterar a foto. |
-| Passos 	 |01-Na coluna de opções da direita, na tela inicial, clicar em _Perfil_ <br> 02- Clicar no botão "foto" <br> - Inserir a foto <br> 03- Clicar em _Salvar_. |
+| Passos 	 |01-Na coluna de opções da direita, na tela inicial, clicar em _Perfil_ <br> 02- Clicar no botão "foto" <br> 03- Inserir a foto <br> 04- Clicar em _Salvar_. |
 |Critério de Êxito | - O usuario conseguirar mudar a foto do perfil. |
 |  	|  	|
 | **Caso de Teste**	| **CT-07 – Alterar o email do usuario**	|
