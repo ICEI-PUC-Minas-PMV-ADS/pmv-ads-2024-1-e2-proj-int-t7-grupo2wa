@@ -48,7 +48,7 @@
 | **Caso de Teste**	| **CT-08 – Recuperar senha de acesso**	|
 |Requisito Associado | RF-02	- O usuário deve conseguir recuperar senha |
 | Objetivo do Teste 	| Verificar se o usuário consegue recuperar o acesso à aplicação após esquecer a senha. |
-| Passos 	| 01-No acesso […], clicar em […] <br> 02-Acessar a página de login _"Bem-vindo de volta"_ <br> 03-Clicar em _Esqueci minha senha_ <br> 04-Digitar o e-mail cadastrado no campo _E-mail_ <br> 5-Clicar em _Enviar e-mail_ |
+| Passos 	| -Acessar a página de login  <br> -Clicar em _Esqueci minha senha_ <br> -Digitar o e-mail cadastrado no campo _E-mail_ <br> -Clicar em _Enviar e-mail_ |
 |Critério de Êxito | Receber a senha previamente cadastrada no e-mail cadastrado. |
 |  	|  	|
 | **Caso de Teste**	| **CT-09 – Tutorial dos jogos**	|
