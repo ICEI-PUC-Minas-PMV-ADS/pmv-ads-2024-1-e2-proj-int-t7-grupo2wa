@@ -19,7 +19,7 @@
 |Requisito Associado | RF-02	- A aplicação deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar os jogos.|
 | Objetivo do Teste 	| Verificar se o usuário consegue buscar por jogos. |
 | Passos 	|  01-Acessar a página jogos <br> 02-Clicar na barra de pesquisa <br> 03-Digitar o nome do jogo <br> 04-Clicar em _busca_ |
-|Critério de Êxito | Buscar o jogo atraves da pesquisa. |
+|Critério de Êxito | Buscar o jogo atraves da barra de pesquisa. |
 |  	|  	|
 | **Caso de Teste**	| **CT-04 – Sistema de rangking baseado em cada jogo**	|
 |Requisito Associado | RF-03- Sistema de ranking (pontuaçao) para algumas aplicaçoes na soluçao. |
