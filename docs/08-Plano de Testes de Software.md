@@ -30,37 +30,37 @@
 | **Caso de Teste**	| **CT-05 – Alterar o nome de perfil**	|
 |Requisito Associado | RF-03- Usuário poderar alterar o nome do perfil. |
 | Objetivo do Teste 	| Verificar se o usuário consegue editar o nome de usuario. |
-| Passos 	| 1-Na coluna de opções da direita, na tela inicial, clicar em _Perfil_ <br> 02- No _Campo 1_ , inserir o novo nome de usuario. <br> 07-Clicar em _Alterar nome de usuario_.  11- Clicar em _Salvar_. |
+| Passos 	| 1-Na coluna de opções da direita, na tela inicial, clicar em _Perfil_ <br> 02- No _Campo 1_ , inserir o novo nome de usuario. <br> 03-Clicar em _Alterar nome de usuario_.  <br> 04- Clicar em _Salvar_. |
 |Critério de Êxito | Usuario conseguirar alterar o nome. |
 |  	|  	|
 | **Caso de Teste**	| **CT-06 – Alterar a foto de perfil**	|
 |Requisito Associado | RF-00Y	- Usuário poderar alterar a foto de perfil. |
 | Objetivo do Teste 	| Verificar se o usuário consegue alterar a foto. |
-| Passos 	 |Na coluna de opções da direita, na tela inicial, clicar em _Perfil_ <br> - Clicar no botão "foto" <br> - Inserir a foto <br> - Clicar em _Salvar_. |
+| Passos 	 |01-Na coluna de opções da direita, na tela inicial, clicar em _Perfil_ <br> 02- Clicar no botão "foto" <br> - Inserir a foto <br> 03- Clicar em _Salvar_. |
 |Critério de Êxito | - O usuario conseguirar mudar a foto do perfil. |
 |  	|  	|
 | **Caso de Teste**	| **CT-07 – Alterar o email do usuario**	|
 |Requisito Associado | RF-00Y	- Usuário poderar alterar alterar o email. |
 | Objetivo do Teste 	| Verificar se o usuário consegue realizar a alteração do email. |
-| Passos 	| Na coluna de opções da direita, na tela inicial, clicar em _Perfil_ <br> - Clicar no botão "Alterar email" <br>   - Clicar em _Salvar_ .|
+| Passos 	| 01-Na coluna de opções da direita, na tela inicial, clicar em _Perfil_ <br> 02- Clicar no botão "Alterar email" <br> 03- Clicar em _Salvar_ .|
 |Critério de Êxito | -A alteraçao sera realizada com sucesso. |
 |  	|  	|
 | **Caso de Teste**	| **CT-08 – Recuperar senha de acesso**	|
 |Requisito Associado | RF-02	- O usuário deve conseguir recuperar senha |
 | Objetivo do Teste 	| Verificar se o usuário consegue recuperar o acesso à aplicação após esquecer a senha. |
-| Passos 	| -Acessar a página de login  <br> -Clicar em _Esqueci minha senha_ <br> -Digitar o e-mail cadastrado no campo _E-mail_ <br> -Clicar em _Enviar e-mail_ |
+| Passos 	| 01-Acessar a página de login  <br> 02-Clicar em _Esqueci minha senha_ <br> 03-Digitar o e-mail cadastrado no campo _E-mail_ <br> 04-Clicar em _Enviar e-mail_ |
 |Critério de Êxito | Receber a senha previamente cadastrada no e-mail cadastrado. |
 |  	|  	|
 | **Caso de Teste**	| **CT-09 – Tutorial dos jogos**	|
 |Requisito Associado | RF-00Y	- Usuário tera acesso ao tutorial de cada jogo na aplicação. |
 | Objetivo do Teste 	|  Verificar se o usuário consegue acessar o tutoria. |
-| Passos 	| - Acessar a pagina do jogo <br> - Selecionar o jogo da preferrencia  <br> - Aparecerar um  video do tutorial para o usuario.  |
+| Passos 	| 01- Acessar a pagina do jogo <br> 02- Selecionar o jogo da preferrencia  <br> 03- Aparecerar um  video do tutorial para o usuario.  |
 |Critério de Êxito | - O Tutorial aparecerar para o usuario. |
 |  	|  	|
 | **Caso de Teste**	| **CT-10 – Pontuação dos melhores no ranking**	|
 |Requisito Associado | RF-00Y	- O sistema devera salvar a pontuaçao do usuario e exibir a maior no ranking dos 10 melhores. |
 | Objetivo do Teste 	| Verificar se o usuário consegue acessar a pontuação no ranking. |
-| Passos 	| - Acessar o pagina de jogos <br> - Selecionar o jogo da preferencia <br> - Clicar no botão "Jogar" <br> -Iniciar o game <br> - Fazer a pontuação <br> - Ao final os pontos seram salvos e entraram no ranking <br> - Acessar a pagina de ranking  |
+| Passos 	| 01- Acessar o pagina de jogos <br> 02- Selecionar o jogo da preferencia <br> 03- Clicar no botão "Jogar" <br> 04-Iniciar o game <br> 05- Fazer a pontuação <br> 06- Ao final os pontos seram salvos e entraram no ranking <br> 07- Acessar a pagina de ranking  |
 |Critério de Êxito | - A pontuaçao do usuario aparecerar no ranking dos 10 melhores. |
 |  	|  	|
 
