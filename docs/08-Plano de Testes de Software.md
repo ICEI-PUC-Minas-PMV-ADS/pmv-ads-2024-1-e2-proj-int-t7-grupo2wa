@@ -30,7 +30,7 @@
 | **Caso de Teste**	| **CT-05 – Alterar o nome de perfil**	|
 |Requisito Associado | RF-03- Usuário poderar alterar o nome do perfil. |
 | Objetivo do Teste 	| Verificar se o usuário consegue editar o nome de usuario. |
-| Passos 	| 1-Na coluna de opções da direita, na tela inicial, clicar em _Perfil_ <br> 02- No _Campo 1_ , inserir o novo nome de usuario. <br> 03-Clicar em _Alterar nome de usuario_.  <br> 04- Clicar em _Salvar_. |
+| Passos 	| 01-Na coluna de opções da direita, na tela inicial, clicar em _Perfil_ <br> 02- No _Campo 1_ , inserir o novo nome de usuario. <br> 03-Clicar em _Alterar nome de usuario_.  <br> 04- Clicar em _Salvar_. |
 |Critério de Êxito | Usuario conseguirar alterar o nome. |
 |  	|  	|
 | **Caso de Teste**	| **CT-06 – Alterar a foto de perfil**	|
