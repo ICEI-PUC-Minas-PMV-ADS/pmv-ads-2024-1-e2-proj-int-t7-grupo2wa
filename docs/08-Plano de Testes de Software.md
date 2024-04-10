@@ -12,7 +12,7 @@
 | **Caso de Teste**	| **CT-02 – Efetuar login**	|
 |	Requisito Associado 	| RF-01 - Acesso funcional aos Jogos |
 | Objetivo do Teste 	| Verificar se o usuário consegue logar-se na aplicação. |
-| Passos 	| 01-Acessar a página de login  <br> 02-Inserir o nome já cadastrado no campo _nome de usuario_. <br> 03-Inserir a senha cadastrada no campo _senha_.<br> 05-Clicar em _Entrar_. |
+| Passos 	| 01-Acessar a página de login  <br> 02-Inserir o nome já cadastrado no campo _nome de usuario_. <br> 03-Inserir a senha cadastrada no campo _senha_.<br> 04-Clicar em _Entrar_. |
 |Critério de Êxito | Login na aplicação e exibição da tela "Jogos" |
 |  	|  	|
 | **Caso de Teste**	| **CT-03 – Usuario conseguirar pesquisar ou filtrar os jogos**	|
