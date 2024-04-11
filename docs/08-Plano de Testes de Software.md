@@ -63,12 +63,3 @@
 | Passos 	| 01- Acessar o pagina de jogos <br> 02- Selecionar o jogo da preferencia <br> 03- Clicar no botão "Jogar" <br> 04-Iniciar o game <br> 05- Fazer a pontuação <br> 06- Ao final os pontos seram salvos e entraram no ranking <br> 07- Acessar a pagina de ranking  |
 |Critério de Êxito | - A pontuaçao do usuario aparecerar no ranking dos 10 melhores. |
 |  	|  	|
-
- 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
-> - [Criação e Geração de Planos de Teste de Software](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
