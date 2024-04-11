@@ -62,4 +62,3 @@
 | Objetivo do Teste 	| Verificar se o usuário consegue acessar a pontuação no ranking. |
 | Passos 	| 01- Acessar o pagina de jogos <br> 02- Selecionar o jogo da preferencia <br> 03- Clicar no botão "Jogar" <br> 04-Iniciar o game <br> 05- Fazer a pontuação <br> 06- Ao final os pontos seram salvos e entraram no ranking <br> 07- Acessar a pagina de ranking  |
 |Critério de Êxito | - A pontuaçao do usuario aparecerar no ranking dos 10 melhores. |
-|  	|  	|
