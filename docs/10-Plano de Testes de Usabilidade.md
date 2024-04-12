@@ -1,12 +1,10 @@
-# Plano de Testes de Usabilidade
-
-**Plano de Testes de Usabilidade**
+## Plano de Testes de Usabilidade
 
 O objetivo deste teste de usabilidade, a ser conduzido pela equipe 2WA, é avaliar a usabilidade dos requisitos funcionais da aplicação web. Esse processo será baseado na interação de diferentes usuários com a interface do sistema, visando identificar pontos fortes e áreas de melhoria na experiência do usuário.
 
 Será um teste do tipo aprendizado, conduzido no formato remoto, utilizando a plataforma Teams para realizar uma gravação. Durante o teste, serão registradas as ações e reações do usuário ao executar as tarefas designadas. A gravação resultante deve conter simultaneamente a tela da aplicação em uso e o rosto do usuário, garantindo uma visão abrangente do processo de aprendizado e das interações do usuário com a plataforma.
 
-**Seleção de Participantes**
+## Seleção de Participantes
 
 Para participar do teste, os candidatos devem atender aos seguintes critérios:
 
@@ -17,7 +15,7 @@ Para participar do teste, os candidatos devem atender aos seguintes critérios:
 
 Estes critérios visam selecionar participantes que possuam as qualificações e disponibilidade necessárias para contribuir efetivamente para o processo de avaliação da usabilidade da aplicação web.
 
-**Ferramentas**
+## Ferramentas
 
 Para a realização desse teste serão usadas as seguintes ferramentas:
 
@@ -27,17 +25,54 @@ Para a realização desse teste serão usadas as seguintes ferramentas:
 - Formulário de consentimento
 - Script para o entrevistador
 
+## Tarefas
 
-Os testes de usabilidade permitem avaliar a qualidade da interface com o usuário da aplicação interativa.
+| Tarefa 1 |	CT-01 – Validar a inserção de dados para criação de uma conta |
+|:---:	|:---	|
+| Requisito Associado |	RF-01 - Permitir que o usuário se registre no site e efetue o login |
+| Tempo|Até 10 minutos |
+|  	|  	|
+| **Tarefa 2** |	**CT-02 – Efetuar login** |
+| Requisito Associado |	RF-01 - Acesso funcional aos Jogos |
+| Tempo |	Até 5 minutos |
+|  	|  	|
+| **Tarefa 3** |	**CT-03 – Usuário conseguir pesquisar ou filtrar os jogos** |
+| Requisito Associado |	RF-02 - A aplicação deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar os jogos. |
+| Tempo |	Até 5 minutos |
+|  	|  	|
+| **Tarefa 4** |	**CT-04 – Sistema de ranking único em cada jogo** |
+| Requisito Associado |	RF-03- Sistema de ranking (pontuação) para algumas aplicações na solução. |
+| Tempo |	Até 5 minutos |
+|  	|  	|
+| **Tarefa 5** |	**CT-05 – Alterar o nome de perfil** |
+| Requisito Associado |	RF-03- Usuário poderá alterar o nome do perfil. |
+| Tempo |	Até 3 minutos |
+| **Tarefa 6** |	**CT-06 – Alterar a foto de perfil** |
+| Requisito Associado |	RF-00Y - Usuário poderá alterar a foto de perfil. |
+| Tempo |	Até 3 minutos |
+|  	|  	|
+| **Tarefa 7** |	**CT-07 – Alterar o email do usuário** |
+| Requisito Associado |	RF-00Y - Usuário poderá alterar o email. |
+| Tempo |	Até 5 minutos |
+|  	|  	|
+| **Tarefa 8** |	**CT-08 – Recuperar senha de acesso** |
+| Requisito Associado |	RF-02 - O usuário deve conseguir recuperar senha |
+| Tempo |	Até 5 minutos |
+|  	|  	|
+| **Tarefa 9** |	**CT-09 – Tutorial dos jogos** |
+| Requisito Associado |	RF-00Y - Usuário tera acesso ao tutorial de cada jogo na aplicação. |
+| Tempo |	Até 10 minutos |
+|  	|  	|
+| **Tarefa 10**	| **CT-10 – Pontuação dos melhores no ranking** |
+| Requisito Associado |	RF-00Y - O sistema deverá salvar a pontuação do usuário e exibir as 10 maiores pontuações no ranking. |
+| Tempo |	Até 3 minutos |
 
-Um plano de teste de usabilidade deverá conter: o detalhamento dos objetivos (em função dos requisitos levantados/implementados), dos critérios que serão utilizados para a seleção dos participantes, dos procedimentos a serem adotados pelos condutores de teste (por exemplo: os testes serão presenciais ou remotos? o método será observação direta, medição ou avaliação?), das tarefas a serem executadas, dos dados a serem coletados (quantidade de cliques, número de erros, tempo etc.), a ordem de execução das tarefas e das etapas da sessão de teste, recursos demandados, métricas coletadas etc.
+## Avaliação
 
-Para cada voluntário do teste, é fundamental coletar e apresentar todos os dados/métricas previamente definidos, mas não se esqueça: atendendo à LGPD (Lei Geral de Proteção de Dados), nenhum dado sensível, que permita identificar o voluntário, deverá ser apresentado).
-
-As referências abaixo irão auxiliá-lo na geração do artefato "Plano de Testes de Usabilidade".
-
-> **Links Úteis**:
-> - [Teste De Usabilidade: O Que É e Como Fazer Passo a Passo (neilpatel.com)](https://neilpatel.com/br/blog/teste-de-usabilidade/)
-> - [Teste de usabilidade: tudo o que você precisa saber! | by Jon Vieira | Aela.io | Medium](https://medium.com/aela/teste-de-usabilidade-o-que-voc%C3%AA-precisa-saber-39a36343d9a6/)
-> - [Planejando testes de usabilidade: o que (e o que não) fazer | iMasters](https://imasters.com.br/design-ux/planejando-testes-de-usabilidade-o-que-e-o-que-nao-fazer/)
-> - [Ferramentas de Testes de Usabilidade](https://www.usability.gov/how-to-and-tools/resources/templates.html)
+Os métodos de avaliação serão:
+- Observação direta das gravações.
+- Tempo para a conclusão das tarefas.
+- Total de erros cometidos na execução da tarefa.
+- Tipos de erros que ocorreram.
+- Grau de sucesso da execução das tarefas.
+- Verificar o nível de satisfação do usuário através do formulário preenchido após a realização do teste.
