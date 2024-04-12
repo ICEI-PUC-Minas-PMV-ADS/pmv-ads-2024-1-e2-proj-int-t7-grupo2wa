@@ -6,7 +6,7 @@
 |:---:	|:---	|
 |	Requisito Associado 	| RF-01 -  Permitir que o usuario se registre no site e efetue o login. |
 | Objetivo do Teste 	| Verificar se o usuário consegue cadastrar-se na aplicação. |
-| Passos 	| 01-Acessar a página de cadastro de usuário <br> 02-Inserir um nome no campo _Nome_. <br> 03-Inserir um endereço de e-mail no campo _e-mail_. <br> 04-Inserir caracteres da senha no campo _senha_.<br> 05-Clicar em _Cadastrar_. |
+| Passos 	| 01-Acessar a página de cadastro de usuário. <br> 02-Inserir um nome no campo _Nome_. <br> 03-Inserir um endereço de e-mail no campo _e-mail_. <br> 04-Inserir caracteres da senha no campo _senha_.<br> 05-Clicar em _Cadastrar_. |
 |Critério de Êxito | Mensagem "bem-vindo" na tela. |
 |  	|  	|
 | **Caso de Teste**	| **CT-02 – Efetuar login.**	|
