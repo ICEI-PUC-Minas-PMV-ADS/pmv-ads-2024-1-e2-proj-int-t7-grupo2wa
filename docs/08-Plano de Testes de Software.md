@@ -4,16 +4,16 @@
  
 | **Caso de Teste** 	| **CT-01 – Validar a inserção de dados para criação de uma conta** 	|
 |:---:	|:---	|
-|	Requisito Associado 	| RF-01 -  Permitir que o usuario se registre no site e efetue o login |
+|	Requisito Associado 	| RF-01 -  Permitir que o usuario se registre no site e efetue o login. |
 | Objetivo do Teste 	| Verificar se o usuário consegue cadastrar-se na aplicação. |
 | Passos 	| 01-Acessar a página de cadastro de usuário <br> 02-Inserir um nome no campo _Nome_. <br> 03-Inserir um endereço de e-mail no campo _e-mail_. <br> 04-Inserir caracteres da senha no campo _senha_.<br> 05-Clicar em _Cadastrar_. |
 |Critério de Êxito | Mensagem "bem-vindo" na tela. |
 |  	|  	|
 | **Caso de Teste**	| **CT-02 – Efetuar login**	|
-|	Requisito Associado 	| RF-01 - Acesso funcional aos Jogos |
+|	Requisito Associado 	| RF-01 - Acesso funcional aos Jogos. |
 | Objetivo do Teste 	| Verificar se o usuário consegue logar-se na aplicação. |
 | Passos 	| 01-Acessar a página de login  <br> 02-Inserir o nome já cadastrado no campo _nome de usuario_. <br> 03-Inserir a senha cadastrada no campo _senha_.<br> 04-Clicar em _Entrar_. |
-|Critério de Êxito | Login na aplicação e exibição da tela "Jogos" |
+|Critério de Êxito | Login na aplicação e exibição da tela "Jogos". |
 |  	|  	|
 | **Caso de Teste**	| **CT-03 – Usuario conseguirar pesquisar ou filtrar os jogos**	|
 |Requisito Associado | RF-02	- A aplicação deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar os jogos.|
@@ -46,7 +46,7 @@
 |Critério de Êxito | -A alteraçao sera realizada com sucesso. |
 |  	|  	|
 | **Caso de Teste**	| **CT-08 – Recuperar senha de acesso**	|
-|Requisito Associado | RF-02	- O usuário deve conseguir recuperar senha |
+|Requisito Associado | RF-02	- O usuário deve conseguir recuperar senha. |
 | Objetivo do Teste 	| Verificar se o usuário consegue recuperar o acesso à aplicação após esquecer a senha. |
 | Passos 	| 01-Acessar a página de login  <br> 02-Clicar em _Esqueci minha senha_ <br> 03-Digitar o e-mail cadastrado no campo _E-mail_ <br> 04-Clicar em _Enviar e-mail_ |
 |Critério de Êxito | Receber a senha previamente cadastrada no e-mail cadastrado. |
@@ -60,5 +60,5 @@
 | **Caso de Teste**	| **CT-10 – Pontuação dos melhores no ranking**	|
 |Requisito Associado | RF-00Y	- O sistema devera salvar a pontuaçao do usuario e exibir a maior no ranking dos 10 melhores. |
 | Objetivo do Teste 	| Verificar se o usuário consegue acessar a pontuação no ranking. |
-| Passos 	| 01- Acessar o pagina de jogos <br> 02- Selecionar o jogo da preferencia <br> 03- Clicar no botão "Jogar" <br> 04-Iniciar o game <br> 05- Fazer a pontuação <br> 06- Ao final os pontos seram salvos e entraram no ranking <br> 07- Acessar a pagina de ranking  |
+| Passos 	| 01- Acessar o pagina de jogos <br> 02- Selecionar o jogo da preferencia <br> 03- Clicar no botão "Jogar" <br> 04-Iniciar o game <br> 05- Fazer a pontuação <br> 06- Ao final os pontos seram salvos e entraram no ranking <br> 07- Acessar a pagina de ranking.  |
 |Critério de Êxito | - A pontuaçao do usuario aparecerar no ranking dos 10 melhores. |
