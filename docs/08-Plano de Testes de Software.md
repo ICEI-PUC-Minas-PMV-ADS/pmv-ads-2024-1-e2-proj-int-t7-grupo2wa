@@ -42,7 +42,7 @@
 | **Caso de Teste**	| **CT-07 – Alterar o email do usuario.**	|
 |Requisito Associado | RF-00Y	- Usuário poderá alterar alterar o email. |
 | Objetivo do Teste 	| Verificar se o usuário consegue realizar a alteração do email. |
-| Passos 	| 01 - Na coluna de opções da direita, na tela inicial, clicar em _Perfil_ <br> 02- Clicar no botão "Alterar email" <br> 03- Clicar em _Salvar_ .|
+| Passos 	| 01 - Na coluna de opções da direita, na tela inicial, clicar em _Perfil_ <br> 02-Clicar no botão "Alterar email" <br> 03- Clicar em _Salvar_ .|
 |Critério de Êxito | A alteração sera realizada com sucesso. |
 |  	|  	|
 | **Caso de Teste**	| **CT-08 – Recuperar senha de acesso.**	|
@@ -60,5 +60,5 @@
 | **Caso de Teste**	| **CT-10 – Pontuação dos melhores no ranking.**	|
 |Requisito Associado | RF-00Y	- O sistema deverá salvar a pontuação do usuário e exibir a maior no ranking dos 10 melhores. |
 | Objetivo do Teste 	| Verificar se o usuário consegue acessar a pontuação no ranking. |
-| Passos 	| 01 - Acessar o pagina de jogos <br> 02- Selecionar o jogo da preferência <br> 03- Clicar no botão "Jogar" <br> 04-Iniciar o game <br> 05- Fazer a pontuação <br> 06- Ao final os pontos seram salvos e entraram no ranking <br> 07 - Acessar a pagina de ranking.  |
+| Passos 	| 01 - Acessar o pagina de jogos <br> 02- Selecionar o jogo da preferência <br> 03- Clicar no botão "Jogar" <br> 04- Iniciar o game <br> 05- Fazer a pontuação <br> 06- Ao final os pontos seram salvos e entraram no ranking <br> 07 - Acessar a pagina de ranking.  |
 |Critério de Êxito | A pontuaçao do usuário aparecerá no ranking dos 10 melhores. |
