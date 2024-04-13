@@ -60,5 +60,5 @@
 | **Caso de Teste**	| **CT-10 – Pontuação dos melhores no ranking.**	|
 |Requisito Associado | RF-00Y	- O sistema deverá salvar a pontuação do usuário e exibir a maior no ranking dos 10 melhores. |
 | Objetivo do Teste 	| Verificar se o usuário consegue acessar a pontuação no ranking. |
-| Passos 	| 01 - Acessar o pagina de jogos <br> 02- Selecionar o jogo da preferência <br> 03- Clicar no botão "Jogar" <br> 04 - Iniciar o game <br> 05- Fazer a pontuação <br> 06- Ao final os pontos seram salvos e entraram no ranking <br> 07 - Acessar a pagina de ranking.  |
+| Passos 	| 01 - Acessar o pagina de jogos <br> 02- Selecionar o jogo da preferência <br> 03- Clicar no botão "Jogar" <br> 04- Iniciar o game <br> 05- Fazer a pontuação <br> 06- Ao final os pontos seram salvos e entraram no ranking <br> 07- Acessar a pagina de ranking.  |
 |Critério de Êxito | A pontuaçao do usuário aparecerá no ranking dos 10 melhores. |
