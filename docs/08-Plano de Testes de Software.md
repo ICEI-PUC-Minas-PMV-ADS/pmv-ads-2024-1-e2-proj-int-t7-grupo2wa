@@ -22,13 +22,13 @@
 |Critério de Êxito | Buscar o jogo através da barra de pesquisa. |
 |  	|  	|
 | **Caso de Teste**	| **CT-04 – Sistema de rangking baseado em cada jogo.**	|
-|Requisito Associado | RF-03- Sistema de ranking (pontuação) para algumas aplicações na solução. |
+|Requisito Associado | RF-03 - Sistema de ranking (pontuação) para algumas aplicações na solução. |
 | Objetivo do Teste 	| Verificar se o usuário consegue pontuar nos jogos. |
 | Passos 	| 01 - Acessar a página de jogos  <br> 02-Procurar o jogo. <br> 03- Jogar o jogo.<br> 04-Fazer a pontuação.
 |Critério de Êxito | Mostrar a pontuação do usuario. |
 |  	|  	|
 | **Caso de Teste**	| **CT-05 – Alterar o nome de perfil.**	|
-|Requisito Associado | RF-03- Usuário poderá alterar o nome do perfil. |
+|Requisito Associado | RF-03 - Usuário poderá alterar o nome do perfil. |
 | Objetivo do Teste 	| Verificar se o usuário consegue editar o nome de usuario. |
 | Passos 	| 01 - Na coluna de opções da direita, na tela inicial, clicar em _Perfil_ <br> 02- No _Campo 1_ , inserir o novo nome de usuario. <br> 03-Clicar em _Alterar nome de usuario_.  <br> 04- Clicar em _Salvar_. |
 |Critério de Êxito | Usuario conseguirá alterar o nome. |
