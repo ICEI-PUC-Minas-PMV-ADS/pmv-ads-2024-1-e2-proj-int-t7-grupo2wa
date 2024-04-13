@@ -18,13 +18,13 @@
 | **Caso de Teste**	| **CT-03 – Usuario conseguirar pesquisar ou filtrar os jogos.**	|
 |Requisito Associado | RF-02	- A aplicação deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar os jogos.|
 | Objetivo do Teste 	| Verificar se o usuário consegue pesquisar pelos jogos. |
-| Passos 	|  01 - Acessar a página jogos <br> 02-Clicar na barra de pesquisa <br> 03-Digitar o nome do jogo <br> 04-Clicar em _busca_ |
+| Passos 	|  01-Acessar a página jogos <br> 02-Clicar na barra de pesquisa <br> 03-Digitar o nome do jogo <br> 04-Clicar em _busca_ |
 |Critério de Êxito | Buscar o jogo através da barra de pesquisa. |
 |  	|  	|
 | **Caso de Teste**	| **CT-04 – Sistema de rangking baseado em cada jogo.**	|
 |Requisito Associado | RF-03 - Sistema de ranking (pontuação) para algumas aplicações na solução. |
 | Objetivo do Teste 	| Verificar se o usuário consegue pontuar nos jogos. |
-| Passos 	| 01 - Acessar a página de jogos  <br> 02-Procurar o jogo. <br> 03- Jogar o jogo.<br> 04-Fazer a pontuação.
+| Passos 	| 01-Acessar a página de jogos  <br> 02-Procurar o jogo. <br> 03- Jogar o jogo.<br> 04-Fazer a pontuação.
 |Critério de Êxito | Mostrar a pontuação do usuario. |
 |  	|  	|
 | **Caso de Teste**	| **CT-05 – Alterar o nome de perfil.**	|
