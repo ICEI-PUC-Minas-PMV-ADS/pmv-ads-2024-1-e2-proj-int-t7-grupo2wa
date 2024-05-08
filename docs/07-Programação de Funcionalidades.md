@@ -38,8 +38,11 @@ RF-004	Sistema de ranking (pontuaçao) para algumas aplicaçoes na soluçao.
 
 
 RF-005	Usuário poderar alterar o nome do perfil. (EM DENSEVOLVIMENTO)
+
 RF-006	Usuário poderar alterar a foto de perfil. (EM DENSEVOLVIMENTO)
+
 RF-007	Usuário poderar alterar alterar o email. (EM DENSEVOLVIMENTO)
+
 RF-008	Usuário poderar alterar a senha. (EM DENSEVOLVIMENTO)
 
 
@@ -55,6 +58,7 @@ RF-009	Usuário tera acesso ao tutorial de cada jogo na aplicação
 
 
 RF-010	O sistema devera salvar a pontuaçao do usuario e exibir a maior no ranking dos 10 melhores. (EM DENSEVOLVIMENTO)
+
 RF-011	O usuario deve conseguir adicionar novos jogos para o publico. (comunidade) (EM DENSEVOLVIMENTO)
 
 
