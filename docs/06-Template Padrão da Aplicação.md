@@ -10,6 +10,8 @@ O padrão de layout foi definido e feito através da plataforma Figma
 # Aplicações 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-int-t7-grupo2wa/assets/144857658/cffee17f-b493-43e4-8747-a97cf1d800ad)
 
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-int-t7-grupo2wa/assets/144857658/ad7cfea2-f553-44a5-a52c-fe0ed9e20b64)
+
 
 # Imagens 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="4-Metodologia.md"> Metodologia</a>
