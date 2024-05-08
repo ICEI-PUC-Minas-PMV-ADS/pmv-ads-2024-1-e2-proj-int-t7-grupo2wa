@@ -55,6 +55,7 @@ RF-009	Usuário tera acesso ao tutorial de cada jogo na aplicação
 
 
 RF-010	O sistema devera salvar a pontuaçao do usuario e exibir a maior no ranking dos 10 melhores. (EM DENSEVOLVIMENTO)
+RF-011	O usuario deve conseguir adicionar novos jogos para o publico. (comunidade) (EM DENSEVOLVIMENTO)
 
 
 
