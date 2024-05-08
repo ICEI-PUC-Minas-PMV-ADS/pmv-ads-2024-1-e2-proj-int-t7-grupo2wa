@@ -14,6 +14,43 @@ O padrão de layout foi definido e feito através da plataforma Figma
 
 
 # Imagens 
+<h2>Banner</h2>
+
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-int-t7-grupo2wa/assets/144857658/0a00e6b0-18ad-475b-aadb-e094ccf7877d)
+
+
+<h2>Conheça o Web Arcade</h2>
+
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-int-t7-grupo2wa/assets/144857658/0a004617-f6d7-48ad-b2d4-a4f14f7debc5)
+
+
+<h2>WEBCOMMUNITY</h2>
+
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-int-t7-grupo2wa/assets/144857658/1db79d54-c5a5-4ab2-afd3-10e0532e8d0d)
+
+
+<H2>Login/Registro</H2>
+
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-int-t7-grupo2wa/assets/144857658/480cfc1b-8b41-4e88-978d-505c45645c6f)
+
+
+<h2>Jogos</h2>
+
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-int-t7-grupo2wa/assets/144857658/b3c58a0c-4bc8-42d2-90b7-48cbe6bef815)
+
+
+<h2>Equipe de Desenvolvimento</h2>
+
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-int-t7-grupo2wa/assets/144857658/c3e00000-aea5-4e20-a5d3-cb25de76e5e8)
+
+
+
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="4-Metodologia.md"> Metodologia</a>
 
 Layout padrão da aplicação que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
