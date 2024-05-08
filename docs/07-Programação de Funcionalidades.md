@@ -34,3 +34,23 @@ RF-003	A aplicação deve oferecer uma funcionalidade de filtro/pesquisa para pe
 
 RF-004	Sistema de ranking (pontuaçao) para algumas aplicaçoes na soluçao.
 
+
+
+
+RF-005	Usuário poderar alterar o nome do perfil. (EM DENSEVOLVIMENTO)
+RF-006	Usuário poderar alterar a foto de perfil. (EM DENSEVOLVIMENTO)
+RF-007	Usuário poderar alterar alterar o email. (EM DENSEVOLVIMENTO)
+RF-008	Usuário poderar alterar a senha. (EM DENSEVOLVIMENTO)
+
+
+
+
+- **Usuário tera acesso ao tutorial de cada jogo na aplicação (RF–009)**
+
+![image (3)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-int-t7-grupo2wa/assets/145401221/b32363e4-3b5d-4681-ace4-abc18c29b92d)
+#### *Figura 9 - Como jogar*
+
+RF-009	Usuário tera acesso ao tutorial de cada jogo na aplicação
+
+
+
