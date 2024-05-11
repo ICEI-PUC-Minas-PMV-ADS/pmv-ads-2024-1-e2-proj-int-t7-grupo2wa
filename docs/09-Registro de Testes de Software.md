@@ -6,13 +6,63 @@ Para cada caso de teste definido no Plano de Testes de Software, realize o regis
 
 | **Caso de Teste** 	| **CT-01 – Cadastrar perfil** 	|
 |:---:	|:---:	|
-|	Requisito Associado 	| RF-00X - A aplicação deve apresentar, na página principal, a funcionalidade de cadastro de usuários para que esses consigam criar e gerenciar seu perfil. |
+|	Requisito Associado 	| RF-001 - A aplicação deve apresentar, na página principal, a funcionalidade de cadastro de usuários para que esses consigam criar e gerenciar seu perfil. |
 |Registro de evidência | www.teste.com.br/drive/ct-01 |
 
 | **Caso de Teste** 	| **CT-02 – Realizar login** 	|
 |:---:	|:---:	|
 |	Requisito Associado 	| RF-00Y - A aplicação deve permitir que um usuário previamente cadastrado faça login |
 |Registro de evidência | www.teste.com.br/drive/ct-02 |
+
+| **Caso de Teste** 	| **CT-03 – Acesso funcional ao Jogos** 	|
+|:---:	|:---:	|
+|	Requisito Associado 	| RF-002 - Acesso funcional ao Jogos |
+|Registro de evidência |  |
+
+| **Caso de Teste** 	| **CT-04 – Filtro/Pesquisa de Jogos** 	|
+|:---:	|:---:	|
+|	Requisito Associado 	| RF-003 - A aplicação deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar os jogos.|
+|Registro de evidência | |
+
+| **Caso de Teste** 	| **CT-05 – Sistema de Ranking Local** 	|
+|:---:	|:---:	|
+|	Requisito Associado 	| RF-004 - Sistema de ranking local (pontuaçao) para algumas aplicaçoes na solução.|
+|Registro de evidência |  |
+
+| **Caso de Teste** 	| **CT-06 – Adição de Pontuação pelo Player** 	|
+|:---:	|:---:	
+|	Requisito Associado 	| RF-005 - Player podera adicionar sua pontuação.|
+|Registro de evidência | |
+
+| **Caso de Teste** 	| **CT-07 – Adição de Links de Jogos pelo Player** 	|
+|:---:	|:---:	
+|	Requisito Associado 	| RF-006 - Player podera adicionar links de jogos no webcommunity|
+|Registro de evidência | |
+
+| **Caso de Teste** 	| **CT-08 – Adição e Exclusão de Jogos pelo Administrador** 	|
+|:---:	|:---:	
+|	Requisito Associado 	| RF-007 - Adiministrador podera adicionar e excluir jogos.|
+|Registro de evidência | |
+
+| **Caso de Teste** 	| **CT-09 – Adição de Novos Perfis de Login pelo Administrador** 	|
+|:---:	|:---:	
+|	Requisito Associado 	| RF-008 - Administrador podera adicionar novos perfils de login.|
+|Registro de evidência | |
+
+| **Caso de Teste** 	| **CT-010 Acesso a Tutoriais de Jogos pelo Player** 	|
+|:---:	|:---:	
+|	Requisito Associado 	| RF-009 - Player tera acesso ao tutorial de cada jogo na aplicação.|
+|Registro de evidência | |
+
+| **Caso de Teste** 	| **CT-011 - Salvamento de Pontuações dos Players no Ranking** 	|
+|:---:	|:---:	
+|	Requisito Associado 	| RF-010 - O sistema devera salvar a pontuaçao dos players no rank.|
+|Registro de evidência | |
+
+| **Caso de Teste** 	| **CT-012 - Aba "De a Sua Opinião" para Sugestões ** 	|
+|:---:	|:---:	
+|	Requisito Associado 	| RF-011 - Player deve conseguir adicionar sugestões e reclamações na aba (De a sua opinião).|
+|Registro de evidência | |
 
 ## Avaliação
 
