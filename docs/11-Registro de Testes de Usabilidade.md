@@ -31,21 +31,14 @@
 | Usuário01 | Animado | Acessou o link, encontrou e navegou facilmente o sistema de rank. | 50 | 7 | Não | - | - |
 | Usuário02 | Satisfeito | Acessou o link, achou um pouco confuso como acessor o rank mas obteve exito. | 90 | 11 | Sim | Sim | - |
 
-### CTU-05
-
-| **Usuário**   | **Resposta emocional**   | **Execução**  | **Tempo (seg)**  |  **Ações/Cliques**  | **Cometeu erro?** | **Se recuperou do erro?**  | **Observações** | 
-| :--------: | :--------: |  :--------: |  :--------: | :--------: | :--------: | :--------: | :--------: |
-| Usuário01 | Animado | Acessou o link, encontrou e navegou até "Ver agendamentos" na Home Page, examinando os agendamentos sem dificuldades | 40 | 5 | Não | - | - |
-| Usuário02 | Satisfeito | Acessou o link, identificou "Ver agendamentos" rapidamente e revisou os agendamentos de forma eficiente | 35 | 4 | Não | - | - |
-| Usuário03 | Neutro | Acessou o link, teve um breve atraso para localizar "Ver agendamentos", mas conseguiu revisar os agendamentos sem erros | 45 | 6 | Não | - | - |
 
 ### CTU-06
 
 | **Usuário**   | **Resposta emocional**   | **Execução**  | **Tempo (seg)**  |  **Ações/Cliques**  | **Cometeu erro?** | **Se recuperou do erro?**  | **Observações** | 
 | :--------: | :--------: |  :--------: |  :--------: | :--------: | :--------: | :--------: | :--------: |
-| Usuário01 | Animado | Acessou o link, localizou "Agendamentos Concluídos" facilmente e revisou os agendamentos concluídos de forma eficaz | 35 | 4 | Não | - | - |
-| Usuário02 | Satisfeito | Acessou o link, identificou "Agendamentos Concluídos" rapidamente e revisou os agendamentos concluídos sem dificuldades | 30 | 3 | Não | - | - |
-| Usuário03 | Neutro | Acessou o link, teve um pequeno atraso para encontrar "Agendamentos Concluídos", mas conseguiu revisar os agendamentos sem problemas | 40 | 5 | Não | - | - |
+| Usuário01 | Animado | Acessou o link, localizou o tutorial rapido junto ao jogo de forma eficaz | 35 | 4 | Não | - | - |
+| Usuário02 | Satisfeito | Acessou o link, identificou o tutorial e conseguiu usar a aplicaçao facilmente | 30 | 3 | Não | - | - |
+| Usuário03 | Neutro | Acessou o link, teve um pequeno atraso visual para identificar o tutorial | 40 | 5 | Não | - | - |
 
 ### CTU-07
 
