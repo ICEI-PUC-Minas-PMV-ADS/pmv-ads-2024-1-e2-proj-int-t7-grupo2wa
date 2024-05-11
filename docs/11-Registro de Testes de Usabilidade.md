@@ -39,11 +39,3 @@
 | Usuário01 | Animado | Acessou o link, localizou o tutorial rapido junto ao jogo de forma eficaz | 35 | 4 | Não | - | - |
 | Usuário02 | Satisfeito | Acessou o link, identificou o tutorial e conseguiu usar a aplicaçao facilmente | 30 | 3 | Não | - | - |
 | Usuário03 | Neutro | Acessou o link, teve um pequeno atraso visual para identificar o tutorial | 40 | 5 | Não | - | - |
-
-### CTU-07
-
-| **Usuário**   | **Resposta emocional**   | **Execução**  | **Tempo (seg)**  |  **Ações/Cliques**  | **Cometeu erro?** | **Se recuperou do erro?**  | **Observações** | 
-| :--------: | :--------: |  :--------: |  :--------: | :--------: | :--------: | :--------: | :--------: |
-| Usuário01 | Animado | Acessou o link, encontrou e navegou até "Ver agendamentos", selecionou um agendamento e concluiu a ação de cancelamento sem problemas | 50 | 6 | Não | - | - |
-| Usuário02 | Satisfeito | Acessou o link, identificou "Ver agendamentos" e concluiu o cancelamento de um agendamento de forma eficaz | 40 | 5 | Não | - | - |
-| Usuário03 | Neutro | Acessou o link, teve um pequeno atraso para localizar "Ver agendamentos", mas conseguiu cancelar um agendamento sem erros | 55 | 7 | Não | - | - |
