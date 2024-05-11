@@ -50,7 +50,7 @@ Para cada caso de teste definido no Plano de Testes de Software, realize o regis
 |	Requisito Associado 	| RF-009 - Player tera acesso ao tutorial de cada jogo na aplicação.|
 |Registro de evidência | |
 
-| **Caso de Teste** 	| **CT-011 - Aba "De a Sua Opinião" para Sugestões ** 	|
+| **Caso de Teste** 	| **CT-010 - Aba "De a Sua Opinião" para Sugestões ** 	|
 |:---:	|:---:	
 |	Requisito Associado 	| RF-011 - Player deve conseguir adicionar sugestões e reclamações na aba (De a sua opinião).|
 |Registro de evidência | |
