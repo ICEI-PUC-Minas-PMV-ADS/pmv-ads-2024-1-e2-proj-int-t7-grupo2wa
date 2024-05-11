@@ -49,8 +49,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-007| Adiministrador podera adicionar e excluir jogos. | Alta |
 |RF-008| Administrador podera adicionar novos perfils de login | MÉDIA |
 |RF-009| Player tera acesso ao tutorial de cada jogo na aplicação | BAIXA |
-|RF-010| O sistema devera salvar a pontuaçao dos players no rank. | ALTA |
-|RF-011| Player deve conseguir adicionar sugestões e reclamações na aba (De a sua opinião)  | MÉDIA |
+|RF-010| Player deve conseguir adicionar sugestões e reclamações na aba (De a sua opinião)  | Alta|
 
 ### Requisitos não Funcionais
 
