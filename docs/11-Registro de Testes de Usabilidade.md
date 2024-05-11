@@ -22,7 +22,7 @@
 | **Usuário**   | **Resposta emocional**   | **Execução**  | **Tempo (seg)**  |  **Ações/Cliques**  | **Cometeu erro?** | **Se recuperou do erro?**  | **Observações** | 
 | :--------: | :--------: |  :--------: |  :--------: | :--------: | :--------: | :--------: | :--------: |
 | Usuário01 | Satisfeito | Acessou o link, conseguiu pesquisar ou filtrar os jogos | 45 | 2 | Não | - | - |
-| Usuário02 | Confuso | Acessou o link, encontrou dificuldades em achar a barra de pesquisa e teve pequenos atrasos durante o preenchimento dos campos, mas completou o processo | 20 | 1 | Não | Não | 
+| Usuário02 | Confuso | Acessou o link, encontrou dificuldades em achar a barra de pesquisa e teve pequenos atrasos durante o preenchimento dos campos, mas completou o processo | 20 | 1 | Não | - | 
 
 ### CTU-04
 
