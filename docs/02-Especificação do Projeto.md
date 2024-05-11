@@ -40,17 +40,17 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuario se registre no site e efetue o login e logoff. | ALTA | 
+|RF-001| Permitir que o player e o administrador efetue o login e logoff. | ALTA | 
 |RF-002| Acesso funcional aos Jogos  | ALTA |
 |RF-003| A aplicação deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar os jogos.   | MÉDIA |
-|RF-004| Sistema de ranking (pontuaçao) para algumas aplicaçoes na soluçao.  | MÉDIA |
-|RF-005| Usuário poderar alterar o nome do perfil. | MÉDIA |
-|RF-006| Usuário poderar alterar a foto de perfil. | MÉDIA |
-|RF-007| Usuário poderar alterar alterar o email. | MÉDIA |
-|RF-008| Usuário poderar alterar a senha. | MÉDIA |
-|RF-009| Usuário tera acesso ao tutorial de cada jogo na aplicação | BAIXA |
-|RF-010| O sistema devera salvar a pontuaçao do usuario e exibir a maior no ranking dos 10 melhores. | ALTA |
-|RF-011| O usuario deve conseguir adicionar novos jogos para o publico. (comunidade)  | MÉDIA |
+|RF-004| Sistema de ranking local (pontuaçao) para algumas aplicaçoes na soluçao.  | MÉDIA |
+|RF-005| Player podera adicionar sua pontuação. | MÉDIA |
+|RF-006| Player podera adicionar links de jogos no webcommunity | MÉDIA |
+|RF-007| Adiministrador podera adicionar e excluir jogos. | Alta |
+|RF-008| Administrador podera adicionar novos perfils de login | MÉDIA |
+|RF-009| Player tera acesso ao tutorial de cada jogo na aplicação | BAIXA |
+|RF-010| O sistema devera salvar a pontuaçao dos players no rank. | ALTA |
+|RF-011| Player deve conseguir adicionar sugestões e reclamações na aba (De a sua opinião)  | MÉDIA |
 
 ### Requisitos não Funcionais
 
