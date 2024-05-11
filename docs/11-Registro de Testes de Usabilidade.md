@@ -21,9 +21,8 @@
 
 | **Usuário**   | **Resposta emocional**   | **Execução**  | **Tempo (seg)**  |  **Ações/Cliques**  | **Cometeu erro?** | **Se recuperou do erro?**  | **Observações** | 
 | :--------: | :--------: |  :--------: |  :--------: | :--------: | :--------: | :--------: | :--------: |
-| Usuário01 | Satisfeito | Acessou o link, identificou e clicou em "Logar como funcionário", preencheu os campos de login corretamente e clicou em "Entrar" sem problemas | 45 | 2 | Não | - | - |
-| Usuário02 | Confuso | Acessou o link, encontrou dificuldades em identificar "Logar como funcionário" e teve pequenos atrasos durante o preenchimento dos campos, mas completou o processo | 60 | 2 | Sim | Sim | Recuperou-se após revisão |
-| Usuário03 | Satisfeito | Acessou o link, identificou rapidamente "Logar como funcionário" e preencheu os campos de login sem problemas, clicando em "Entrar" sem hesitação | 40 | 2 | Não | - | - |
+| Usuário01 | Satisfeito | Acessou o link, conseguiu pesquisar ou filtrar os jogos | 45 | 2 | Não | - | - |
+| Usuário02 | Confuso | Acessou o link, encontrou dificuldades em achar a barra de pesquisa e teve pequenos atrasos durante o preenchimento dos campos, mas completou o processo | 20 | 1 | Não | Não | 
 
 ### CTU-04
 
