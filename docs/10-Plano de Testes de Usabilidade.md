@@ -44,26 +44,15 @@ Para a realização desse teste serão usadas as seguintes ferramentas:
 | Requisito Associado |	RF-03- Sistema de ranking (pontuação) para algumas aplicações na solução. |
 | Tempo |	Até 5 minutos |
 |  	|  	|
-| **Tarefa 5** |	**CT-05 – Alterar o nome de perfil** |
-| Requisito Associado |	RF-03- Usuário poderá alterar o nome do perfil. |
-| Tempo |	Até 3 minutos |
-| **Tarefa 6** |	**CT-06 – Alterar a foto de perfil** |
-| Requisito Associado |	RF-00Y - Usuário poderá alterar a foto de perfil. |
-| Tempo |	Até 3 minutos |
-|  	|  	|
-| **Tarefa 7** |	**CT-07 – Alterar o email do usuário** |
-| Requisito Associado |	RF-00Y - Usuário poderá alterar o email. |
-| Tempo |	Até 5 minutos |
-|  	|  	|
-| **Tarefa 8** |	**CT-08 – Recuperar senha de acesso** |
+| **Tarefa 5** |	**CT-08 – Recuperar senha de acesso** |
 | Requisito Associado |	RF-02 - O usuário deve conseguir recuperar senha |
 | Tempo |	Até 5 minutos |
 |  	|  	|
-| **Tarefa 9** |	**CT-09 – Tutorial dos jogos** |
+| **Tarefa 6** |	**CT-09 – Tutorial dos jogos** |
 | Requisito Associado |	RF-00Y - Usuário tera acesso ao tutorial de cada jogo na aplicação. |
 | Tempo |	Até 10 minutos |
 |  	|  	|
-| **Tarefa 10**	| **CT-10 – Pontuação dos melhores no ranking** |
+| **Tarefa 7**	| **CT-10 – Pontuação dos melhores no ranking** |
 | Requisito Associado |	RF-00Y - O sistema deverá salvar a pontuação do usuário e exibir as 10 maiores pontuações no ranking. |
 | Tempo |	Até 3 minutos |
 
