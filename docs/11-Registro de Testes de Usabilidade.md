@@ -28,9 +28,8 @@
 
 | **Usuário**   | **Resposta emocional**   | **Execução**  | **Tempo (seg)**  |  **Ações/Cliques**  | **Cometeu erro?** | **Se recuperou do erro?**  | **Observações** | 
 | :--------: | :--------: |  :--------: |  :--------: | :--------: | :--------: | :--------: | :--------: |
-| Usuário01 | Animado | Acessou o link, encontrou e navegou facilmente até "Fazer agendamentos" na Home Page, concluindo o agendamento sem problemas | 60 | 7 | Não | - | - |
-| Usuário02 | Satisfeito | Acessou o link, localizou "Fazer agendamentos" com facilidade e seguiu o fluxo de agendamento sem dificuldades | 50 | 6 | Não | - | - |
-| Usuário03 | Neutro | Acessou o link, teve um pequeno atraso para encontrar "Fazer agendamentos", mas completou o agendamento sem erros | 65 | 8 | Não | - | - |
+| Usuário01 | Animado | Acessou o link, encontrou e navegou facilmente o sistema de rank. | 50 | 7 | Não | - | - |
+| Usuário02 | Satisfeito | Acessou o link, achou um pouco confuso como acessor o rank mas obteve exito. | 90 | 11 | Sim | Sim | - |
 
 ### CTU-05
 
