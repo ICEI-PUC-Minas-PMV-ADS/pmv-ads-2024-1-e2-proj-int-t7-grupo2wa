@@ -18,7 +18,7 @@ Para cada caso de teste definido no Plano de Testes de Software, realize o regis
 | **Caso de Teste** 	| **CT-03 – Filtro/Pesquisa de Jogos** 	|
 |:---:	|:---:	|
 |	Requisito Associado 	| RF-003 - A aplicação deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar os jogos.|
-|Registro de evidência |em desenvolvimento... |
+|Registro de evidência |https://drive.google.com/file/d/1XIvFLTgU_v5MjEAzkPvZ0cKbeSgZfjdG/view?usp=sharing |
 
 | **Caso de Teste** 	| **CT-04 – Sistema de Ranking Local** 	|
 |:---:	|:---:	|
@@ -33,7 +33,7 @@ Para cada caso de teste definido no Plano de Testes de Software, realize o regis
 | **Caso de Teste** 	| **CT-06 – Adição de Links de Jogos pelo Player** 	|
 |:---:	|:---:	
 |	Requisito Associado 	| RF-006 - Player podera adicionar links de jogos no webcommunity|
-|Registro de evidência |em desenvolvimento...|
+|Registro de evidência |https://drive.google.com/file/d/1GdyIH3s-yQrSG3VG3Z25CP1MoJCZELjJ/view?usp=sharing|
 
 | **Caso de Teste** 	| **CT-07 – Adição e Exclusão de Jogos pelo Administrador** 	|
 |:---:	|:---:	
@@ -53,6 +53,6 @@ Para cada caso de teste definido no Plano de Testes de Software, realize o regis
 | **Caso de Teste** 	| **CT-010 - Aba "De a Sua Opinião" para Sugestões ** 	|
 |:---:	|:---:	
 |	Requisito Associado 	| RF-011 - Player deve conseguir adicionar sugestões e reclamações na aba (De a sua opinião).|
-|Registro de evidência |em desenvolvimento... |
+|Registro de evidência |https://drive.google.com/file/d/1ve4K0toAAYQTI5xmDUzEHsdZcT9rpx13/view?usp=sharing|
 
 
