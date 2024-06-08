@@ -1,0 +1,65 @@
+﻿@model IEnumerable<webarcade.Models.Rank>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Ranking</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-dark">Adicione aqui sua pontuação</a>
+</p>
+<table class="table" id="rank">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Descricao)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Data)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Pontuacao)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Plataforma)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Game)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Descricao)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Data)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Pontuacao)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Plataforma)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Game.Desenvolvedora)
+                </td>
+                <td>
+
+
+                    <a class="btn btn-secondary" asp-action="Details" asp-route-id="@item.Id">Detalhes</a>
+
+                    @if (User.IsInRole("Admin"))
+                    {
+                        <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.Id">Deletar</a>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

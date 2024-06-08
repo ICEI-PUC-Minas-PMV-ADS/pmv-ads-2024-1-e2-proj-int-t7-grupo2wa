@@ -1,0 +1,45 @@
+﻿@model IEnumerable<webarcade.Models.Community>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Community</h1>
+
+<p>
+    <a class="btn btn-dark" asp-action="Create">Adicione aqui seu jogo player</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.game)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Criador)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Link)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.game)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Criador)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Link)
+            </td>
+            <td>
+                    <a class="btn btn-secondary" asp-action="Details" asp-route-id="@item.Id">Detalhes</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

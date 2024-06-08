@@ -1,0 +1,41 @@
+﻿@model IEnumerable<webarcade.Models.Sugestao>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Sugestão</h1>
+
+<p>
+    <a class="btn btn-dark" asp-action="Create">Adicionar sua sugestão</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Sugestaoo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Avaliacao)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Sugestaoo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Avaliacao)
+            </td>
+            <td>
+                
+                    <a class="btn btn-secondary" asp-action="Details" asp-route-id="@item.Id">Detalhes</a>
+                
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,66 @@
+﻿@model IEnumerable<webarcade.Models.Game>
+
+@{
+    ViewData["Title"] = "Games";
+}
+
+<h1 style="color:white">Games</h1>
+
+<p>
+    @if (User.IsInRole("Admin"))
+    {
+        <a class="btn btn-dark" asp-action="Create">Adicionar jogo</a>
+    }
+</p>
+<table style="color:white" class="table" id="games">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Desenvolvedora)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AnoCriacao)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Genero)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nome)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Desenvolvedora)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.AnoCriacao)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Genero)
+                </td>
+
+                @if (User.IsInRole("Admin"))
+                {
+                    <td>
+
+                        <a class="btn btn-dark" asp-action="Edit" asp-route-id="@item.Id">Editar</a> |
+                        <a class="btn btn-secondary" asp-action="Details" asp-route-id="@item.Id">Detalhes</a> |
+                        <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.Id">Deletar</a>
+
+                    </td>
+                }
+                <td>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
