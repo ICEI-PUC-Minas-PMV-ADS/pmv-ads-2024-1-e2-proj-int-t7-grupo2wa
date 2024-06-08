@@ -40,4 +40,4 @@ O projeto da base de dados corresponde à representação das entidades e relaci
 
 ## Hospedagem
 
-Utilizamos a plataforma GitHub Pages como ambiente de hospedagem do site do projeto. A publicação é feita através de comandos via git para o repositório que se encontra no endereço: <a href="https://pages.github.com/">WebArcade</a>
+Utilizamos a plataforma azure Pages como ambiente de hospedagem do site do projeto. A publicação é feita através de comandos via git para o repositório que se encontra no endereço: <a https://webarcade.azurewebsites.net/>WebArcade</a>
